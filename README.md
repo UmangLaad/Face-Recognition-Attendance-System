@@ -37,12 +37,12 @@ During attendance tracking, the system loads the pre-trained model from "Trainne
 
 The attendance data can be saved to a CSV file by clicking on the "Quit" button, or it will be automatically saved after every 10 seconds.
 
-# Authors
+## Authors
 
     Umang Laad - https://github.com/UmangLaad
     Viral Parikh - https://github.com/Viral1006
     Gautam Sharma - https://github.com/developergautam07
 
-Credits
+### Credits
 
 This project is inspired by various tutorials and resources available on face recognition and OpenCV. Special thanks to the OpenCV community for providing valuable documentation and tutorials.
