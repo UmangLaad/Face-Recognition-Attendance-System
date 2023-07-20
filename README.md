@@ -36,7 +36,8 @@ The system uses the haarcascade_frontalface_default.xml file for face detection.
 During attendance tracking, the system loads the pre-trained model from "Trainner.yml" and recognizes the faces from the live webcam feed. If a recognized student is not already marked present, their attendance is recorded in the "Attendance_List.csv" file, and their details are displayed in the table on the GUI.
 
 The attendance data can be saved to a CSV file by clicking on the "Quit" button, or it will be automatically saved after every 10 seconds.
-Authors
+
+# Authors
 
     Umang Laad - https://github.com/UmangLaad
     Viral Parikh - https://github.com/Viral1006
