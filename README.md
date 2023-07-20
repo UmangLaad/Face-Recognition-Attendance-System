@@ -76,3 +76,11 @@ Usage
 Contributing
 
 Contributions to this project are welcome! If you find any bugs or have ideas for improvements, please open an issue or create a pull request. For major changes, please discuss the proposed changes with the repository owners.
+
+Contact
+
+If you have any questions or suggestions regarding the project, feel free to contact the project contributors:
+
+    Umang Laad - GitHub
+    Viral Parikh - GitHub
+    Gautam Sharma - GitHub
